@@ -6,6 +6,12 @@ h1 {
   color: navy;
 }
 
+h3 { color: navy;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+   }
 body {color: black
  }
 
