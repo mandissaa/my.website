@@ -16,4 +16,5 @@ body {color: black
 
 .layout { width: 300px;
          height: 400px;
-         border-
+         border-width: 3px;
+        }
